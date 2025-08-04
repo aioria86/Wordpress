@@ -80,3 +80,19 @@ El sitio web de **eberests.com** fue diseñado como una evolución del modelo pr
 ```mermaid
 graph LR
 Óvalo24Miami --> Eberests --> PhonixUSA
+
+
+---
+
+## ⚠️ Notas Finales
+
+- **Este repositorio no contiene archivos sensibles** como claves API, archivos de configuración (`wp-config.php`), ni la carpeta `/uploads`.
+- Los plugins activos en producción se desactivaron para efectos de respaldo.
+- Cualquier archivo mayor a 100MB ha sido excluido del push a GitHub, y se ha proporcionado su descarga externa.
+
+---
+
+## 👨‍💻 Autor
+
+Este desarrollo fue realizado por Juan Manuel Pérez García como parte del ecosistema de proyectos digitales de Ovalo24 Perú / Tecpreciazos / Modatech Perú.
+
