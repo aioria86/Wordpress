@@ -75,13 +75,6 @@ El sitio web de **eberests.com** fue diseñado como una evolución del modelo pr
 
 ---
 
-## 🧳 Transición entre proyectos
-
-```mermaid
-graph LR
-Óvalo24Miami --> Eberests --> PhonixUSA
-
-
 ---
 
 ## ⚠️ Notas Finales
@@ -94,5 +87,16 @@ graph LR
 
 ## 👨‍💻 Autor
 
-Este desarrollo fue realizado por Juan Manuel Pérez García como parte del ecosistema de proyectos digitales de Ovalo24 Perú / Tecpreciazos / Modatech Perú.
+Este desarrollo fue realizado por Juan Manuel Pérez García como parte del ecosistema de proyectos digitales de Ovalo24 Miami / Eberests / Phonix USA.
+
+---
+
+## 🧳 Transición entre proyectos
+
+```mermaid
+graph LR
+Óvalo24Miami --> Eberests --> PhonixUSA
+
+
+
 
