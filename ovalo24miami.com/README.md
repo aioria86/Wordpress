@@ -52,7 +52,18 @@ Este repositorio contiene un archivo comprimido .zip que incluye la estructura c
 
 📦 Nombre del archivo: ovalomiami_site_snapshot.zip
 
-🔐 Los plugins fueron incluidos comprimidos para evitar conflictos con el escaneo automático de secretos de GitHub, ya que muchas extensiones incluyen palabras como api_key, token o password por defecto.
 ---
-.
-© Proyecto desarrollado para Óvalo 24 Miami – Esta versión solo con fines demostrativos.
+
+## ⚠️ Notas Finales
+
+- **Este repositorio no contiene archivos sensibles** como claves API, archivos de configuración (`wp-config.php`), ni la carpeta `/uploads`.
+- Los plugins activos en producción se desactivaron para efectos de respaldo.
+- Cualquier archivo mayor a 100MB ha sido excluido del push a GitHub, y se ha proporcionado su descarga externa.
+
+---
+
+## 👨‍💻 Autor
+
+Este desarrollo fue realizado por Juan Manuel Pérez García como parte del ecosistema de proyectos digitales de Ovalo24 Miami / Eberests / Phonix USA.
+
+
